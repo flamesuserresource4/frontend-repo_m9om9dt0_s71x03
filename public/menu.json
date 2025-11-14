@@ -1,0 +1,9 @@
+{
+  "categories": ["Starters", "Mains", "Desserts", "Drinks"],
+  "items": [
+    {"category": "Starters", "name": "Truffle Paneer Tikka", "description": "Charred cottage cheese, black truffle, pistachio ash", "price": 14.5, "image_url": "/images/1.jpg", "is_signature": true},
+    {"category": "Mains", "name": "Lamb Rogan Josh", "description": "Slow-braised Kashmiri chili, saffron, pearl onion", "price": 26, "image_url": "/images/2.jpg"},
+    {"category": "Desserts", "name": "Saffron Kulfi", "description": "Sicilian pistachio, rose petal, almond praline", "price": 10, "image_url": "/images/3.jpg"},
+    {"category": "Drinks", "name": "Cardamom Old Fashioned", "description": "Single malt, jaggery syrup, cardamom bitters", "price": 12, "image_url": "/images/1.jpg"}
+  ]
+}
